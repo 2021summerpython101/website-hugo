@@ -1,4 +1,4 @@
-baseURL = "https://github.com/SAofEconNTU/2021summerpython101/"
+baseURL = "https://github.com/SAofEconNTU/python101/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "strange-case"
