@@ -1,0 +1,18 @@
+baseURL = "https://github.com/SAofEconNTU/2021summerpython101/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "strange-case"
+googleAnalytics = "UA-123-456"
+[[menu.icons]]
+	name = "GitHub"
+	post = "<img src=\"/images/github.png\""
+	url = "https://github.com"
+[[menu.main]]
+	name = "Hugo"
+	post = "<span class='glyphicon glyphicon-fire'></span>"
+	url = "http://gohugo.io"
+[params]
+	colorScheme="scheme-lightbrown"
+	DateFormat = "2 Jan 2006"
+	description = "A Hugo Theme built with Bootstrap"
+	sidebarFreeText = "A optional paragraph of free text. Set to blank in config.toml to clear..."
